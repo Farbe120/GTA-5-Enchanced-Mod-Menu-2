@@ -1,0 +1,10 @@
+{
+  "title": "GTA V Enhanced Mod Menu",
+  "game": "gta-v-enhanced",
+  "components": [
+    {
+      "fileName": "*.asi",
+      "destination": "{game}/"
+    }
+  ]
+}
